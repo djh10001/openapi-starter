@@ -28,7 +28,7 @@ servers:
       tenant:
         default: www
         description: Your tenant id
-  - url: 'https://dev-backend.lanjingerp.com/'
+  #- url: 'https://dev-backend.lanjingerp.com/'
 paths:
   '/users/{username}':
     $ref: 'paths/users_{username}.yaml'
