@@ -1,16 +1,16 @@
 openapi: 3.1.0
  info:
   version: 1.0.0
-#  title: Example.com
-#  termsOfService: 'https://example.com/terms/'
-#  contact:
-#    email: contact@example.com
-#    url: 'http://example.com/contact'
-#  license:
-#    name: Apache 2.0
-#    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
-#  x-logo:
-#    url: 'https://m.media-amazon.com/images/S/abs-image-upload-na/1/AmazonStores/A1PA6795UKMFR9/6d3127e6ecf5667460853a3f3035c591.w2276.h2276._CR0%2C0%2C2276%2C2276_SX2276_.png'
+  title: Example.com
+  termsOfService: 'https://example.com/terms/'
+  contact:
+    email: contact@example.com
+    url: 'http://example.com/contact'
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+  x-logo:
+    url: 'https://m.media-amazon.com/images/S/abs-image-upload-na/1/AmazonStores/A1PA6795UKMFR9/6d3127e6ecf5667460853a3f3035c591.w2276.h2276._CR0%2C0%2C2276%2C2276_SX2276_.png'
 #  description:
 #    $ref: ./info-description.md
 tags:
