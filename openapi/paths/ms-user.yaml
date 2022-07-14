@@ -1,9 +1,9 @@
 get:
   tags:
     - ms-user
-  summary: Echo test
-  description: Receive the exact message you've sent
-  operationId: echo
+  summary: login
+  description: login to lanjingerp
+  operationId: user/rest/v2/login
   security:
     - api_key: []
     - basic_auth: []
