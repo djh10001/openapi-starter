@@ -38,7 +38,7 @@ paths:
     $ref: paths/path-item.yaml
   /pathItemWithExamples:
     $ref: paths/path-item-with-examples.yaml
-  /user/rest/*:
+  /user/rest/v2/login:
     $ref: paths/ms-user.yaml
 components:
   securitySchemes:
