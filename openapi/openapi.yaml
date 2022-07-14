@@ -24,10 +24,10 @@ tags:
     description: This is a ms-user description.
 servers:
   #- url: 'https://{tenant}/api/v1'
-    #variables:
-      #tenant:
-        #default: www
-        #description: Your tenant id
+    variables:
+      tenant:
+        default: www
+        description: Your tenant id
   - url: 'https://dev-backend.lanjingerp.com/'
 paths:
   '/users/{username}':
