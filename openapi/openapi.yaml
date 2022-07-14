@@ -39,7 +39,7 @@ paths:
   /pathItemWithExamples:
     $ref: paths/path-item-with-examples.yaml
   /user/rest/v2/login:
-    $ref: paths/ms-user.yaml
+    $ref: paths/user-rest-v2-login.yaml
 components:
   securitySchemes:
     main_auth:
