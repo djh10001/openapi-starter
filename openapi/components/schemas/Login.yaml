@@ -1,1 +1,16 @@
-
+type: object
+title: Login
+properties:
+  loginName:
+    description: 登录名
+    type: string
+    required: true
+    examples:
+      - example
+      - sample
+  password:
+    description: 密码
+    type: string
+    required: true
+    examples:
+      - example
